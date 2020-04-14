@@ -1,0 +1,6 @@
+EMPTY = 0
+START = 1
+FINISH = 2
+BLOCK = 3
+FLAME = 4
+
